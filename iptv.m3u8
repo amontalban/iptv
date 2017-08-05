@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-id="radio-disney-91-9-fm" tvg-name="radio-disney-91-9-fm" channel-id="radio-disney-91-9-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-disney-91-9-fm.png" group-title="Radios Uruguay" radio="true", Radio Disney 91.9 FM
+http://streamrd.sarandi.com.uy:9350/;
