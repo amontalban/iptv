@@ -9,7 +9,7 @@ http://radio2.oceanofm.com:8010/stream/1/
 http://stream1.sport890.com.uy:7914/;
 
 #EXTINF:0 tvg-id="espectador-810-am" tvg-name="espectador-810-am" channel-id="espectador-810-am" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/espectador-810-am.png" group-title="Radios Uruguay" radio="true",Espectador 810 AM
-rtmp://75.126.178.195:80/Espectador_Audio/|Espectador_aac.stream
+http://streaming.espectador.com/envivoaac
 
 #EXTINF:0 tvg-id="la-catorce-10-am-1410" tvg-name="la-catorce-10-am-1410" channel-id="la-catorce-10-am-1410" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/la-catorce-10-am-1410.png" group-title="Radios Uruguay" radio="true",La Catorce 10 AM 1410
 http://radio.lacatorce10.com.uy:8060/stream/1/
@@ -36,16 +36,16 @@ http://192.99.150.52:7900/;
 http://stream1.sarandi690.com.uy:7910/;
 
 #EXTINF:0 tvg-id="latina-fm-95-3" tvg-name="latina-fm-95-3" channel-id="latina-fm-95-3" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/latina-fm-95-3.png" group-title="Radios Uruguay" radio="true",Latina FM 95.3
-
+http://radiointercom.net:8048/;
 
 #EXTINF:0 tvg-id="radio-futura-91-1-fm" tvg-name="radio-futura-91-1-fm" channel-id="radio-futura-91-1-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-futura-91-1-fm.png" group-title="Radios Uruguay" radio="true",Radio Futura 91.1 FM
 http://stream1.rf.com.uy:9352/;
 
 #EXTINF:0 tvg-id="radio-aire-100-3-fm" tvg-name="radio-aire-100-3-fm" channel-id="radio-aire-100-3-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-aire-100-3-fm.png" group-title="Radios Uruguay" radio="true",Radio Aire 100.3 FM
-http://195.154.182.222:27125/stream?type=.flv
+http://195.154.182.222:27125/stream
 
 #EXTINF:0 tvg-id="del-sol-99-5-fm-montevideo" tvg-name="del-sol-99-5-fm-montevideo" channel-id="del-sol-99-5-fm-montevideo" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/del-sol-99-5-fm-montevideo.png" group-title="Radios Uruguay" radio="true",Del Sol 99.5 FM Montevideo
-http://radio.dl.uy:9950/radio.m3u
+http://radio.dl.uy:9950/radio
 
 #EXTINF:0 tvg-id="radio-universal-970-am-montevideo" tvg-name="radio-universal-970-am-montevideo" channel-id="radio-universal-970-am-montevideo" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-universal-970-am-montevideo.png" group-title="Radios Uruguay" radio="true",Radio Universal 970 AM Montevideo
 http://radio.970universal.com:8010/stream/1/
@@ -54,13 +54,13 @@ http://radio.970universal.com:8010/stream/1/
 http://usa15.ciudaddigital.com.uy:8034/ImparcialAM
 
 #EXTINF:0 tvg-id="radio-uruguay-1050-am" tvg-name="radio-uruguay-1050-am" channel-id="radio-uruguay-1050-am" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-uruguay-1050-am.png" group-title="Radios Uruguay" radio="true",Radio Uruguay 1050 AM
-
+http://radio.sodreuruguay.com:9120/stream/1/
 
 #EXTINF:0 tvg-id="metropolis-104-9-fm" tvg-name="metropolis-104-9-fm" channel-id="metropolis-104-9-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/metropolis-104-9-fm.png" group-title="Radios Uruguay" radio="true",Metrópolis 104.9 FM
 http://50.7.76.254:9902/stream/1/
 
 #EXTINF:0 tvg-id="azul-fm-101-9" tvg-name="azul-fm-101-9" channel-id="azul-fm-101-9" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/azul-fm-101-9.png" group-title="Radios Uruguay" radio="true",Azul FM 101.9
-
+http://195.154.217.185:9984/;
 
 #EXTINF:0 tvg-id="radio-cero-104-3-fm" tvg-name="radio-cero-104-3-fm" channel-id="radio-cero-104-3-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-cero-104-3-fm.png" group-title="Radios Uruguay" radio="true",Radio Cero 104.3 FM
 http://192.99.150.52:7902/;
@@ -72,10 +72,10 @@ http://206.190.133.196:7034/;
 http://192.99.150.52:9204/;
 
 #EXTINF:0 tvg-id="emisora-del-sur-94-7-fm" tvg-name="emisora-del-sur-94-7-fm" channel-id="emisora-del-sur-94-7-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/emisora-del-sur-94-7-fm.png" group-title="Radios Uruguay" radio="true",Emisora del Sur 94.7 FM
-
+http://radio.sodreuruguay.com:9160/stream/1/
 
 #EXTINF:0 tvg-id="radio-clasica-650-am" tvg-name="radio-clasica-650-am" channel-id="radio-clasica-650-am" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-clasica-650-am.png" group-title="Radios Uruguay" radio="true",Radio Clásica 650 AM
-
+http://radio.sodreuruguay.com:9090/stream/1/
 
 #EXTINF:0 tvg-id="radio-clarin-am-580" tvg-name="radio-clarin-am-580" channel-id="radio-clarin-am-580" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-clarin-am-580.png" group-title="Radios Uruguay" radio="true",Radio Clarín AM 580
 http://usa15.ciudaddigital.com.uy:8032/ClarinAM
@@ -84,7 +84,7 @@ http://usa15.ciudaddigital.com.uy:8032/ClarinAM
 http://198.24.172.74:8060/stream
 
 #EXTINF:0 tvg-id="radio-babel-97-1-fm" tvg-name="radio-babel-97-1-fm" channel-id="radio-babel-97-1-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/radio-babel-97-1-fm.png" group-title="Radios Uruguay" radio="true",Radio Babel 97.1 FM
-
+http://radio.sodreuruguay.com:9170/stream/1/
 
 #EXTINF:0 tvg-id="carve-850-am" tvg-name="carve-850-am" channel-id="carve-850-am" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/carve-850-am.png" group-title="Radios Uruguay" radio="true",Carve 850 AM
 http://192.99.150.52:9202/;
@@ -102,13 +102,13 @@ http://emisiones.com.uy:8087/salto
 http://server-uk1.radioseninternetuy.com:8034/;
 
 #EXTINF:0 tvg-id="lacosta-fm-88-3" tvg-name="lacosta-fm-88-3" channel-id="lacosta-fm-88-3" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/lacosta-fm-88-3.png" group-title="Radios Uruguay" radio="true",Lacosta FM 88.3
-http://195.154.182.222:27126/stream?type=.flv
+http://195.154.182.222:27126/stream
 
 #EXTINF:0 tvg-id="lugares-91-3-fm" tvg-name="lugares-91-3-fm" channel-id="lugares-91-3-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/lugares-91-3-fm.png" group-title="Radios Uruguay" radio="true",Lugares 91.3 FM
 http://200.58.101.247:8232/stream/1/
 
 #EXTINF:0 tvg-id="delta-fm-88-3" tvg-name="delta-fm-88-3" channel-id="delta-fm-88-3" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/delta-fm-88-3.png" group-title="Radios Uruguay" radio="true",Delta FM 88.3
-
+http://server-uk1.radioseninternetuy.com:8104/;
 
 #EXTINF:0 tvg-id="reflejos-fm-90-7" tvg-name="reflejos-fm-90-7" channel-id="reflejos-fm-90-7" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/reflejos-fm-90-7.png" group-title="Radios Uruguay" radio="true",Reflejos FM 90.7
 http://usa15.ciudaddigital.com.uy:8106/ReflejosFM
@@ -123,7 +123,7 @@ http://dreamsiteradiocp2.com:8070/stream/1/
 http://163.182.175.106:7082/stream/1/
 
 #EXTINF:0 tvg-id="la-torre-fm-106-1" tvg-name="la-torre-fm-106-1" channel-id="la-torre-fm-106-1" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/la-torre-fm-106-1.png" group-title="Radios Uruguay" radio="true",La Torre FM 106.1
-http://107.170.111.32:2960/stream/1/?type=.flv
+http://107.170.111.32:2960/stream/1/
 
 #EXTINF:0 tvg-id="senal-zoe-91-5-fm" tvg-name="senal-zoe-91-5-fm" channel-id="senal-zoe-91-5-fm" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-uy/senal-zoe-91-5-fm.png" group-title="Radios Uruguay" radio="true",Senal Zoe 91.5 FM
 http://unoredradio.com:9664/;
