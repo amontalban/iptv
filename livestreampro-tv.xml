@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channels_info>
+    <title>SmartTV</title>
+    <genre>Television</genre>
+    <description>Lista de Canales de IPTV</description>
+    <thumbnail>http://iptvchannels.com/wp-content/uploads/2016/01/server-orange-iptv.png</thumbnail>
+    <fanart>http://cdn2.bigcommerce.com/n-arxsrf/b8sce72/product_images/uploaded_images/a-new-way-of-wathing.jpg?t=1474412035</fanart>
+    <date>05.09.2017</date>
+    <credits></credits>
+    <info>[B]Lista de canales IPTV.[/B]</info>
+  </channels_info>
+
+  <channel>
+    <name>Argentina</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <info>[B]Lista de canales Argentinos.[/B]</info>
+    <items>
+      <item>
+        <title>C5N Argentina</title>
+        <link>http://us.watcha.live/ch1/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+      </item>
+      <item>
+        <title>A24 Argentina</title>
+        <link>http://us.watcha.live/ch2/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+      </item>
+      <item>
+        <title>América</title>
+        <link>http://ar.watcha.live/ch3/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        <thumbnail>http://static.americatv.com.ar/adjuntos/209/imagenes/019/606/0019606125.png</thumbnail>
+        <fanart>https://i.ytimg.com/vi/PmM1GGNkFB8/maxresdefault.jpg</fanart>
+        <info>[B]América TV (conocido ocasionalmente como América) es un canal de televisión abierta argentino licenciado en la ciudad de La Plata, Provincia de Buenos Aires, aunque su señal es producida en la ciudad de Buenos Aires. Es también conocido por ser uno de los cinco canales abiertos que emiten desde Buenos Aires.[/B]</info>
+      </item>
+      <item>
+        <title>Televisión Publica</title>
+        <link>http://us.watcha.live/ch4/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>Canal 9</title>
+        <link>http://us.watcha.live/ch5/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>Telefe</title>
+        <link>http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png</thumbnail>
+        <fanart>http://wp.enciclomedios.com/wp-content/uploads/2013/06/telefe-siempre-juntos.jpg</fanart>
+        <info>[B]Telefe (acrónimo de Televisión Federal) es una cadena de televisión abierta argentina que se transmite desde la localidad de Martínez en la provincia de Buenos Aires. La cadena fue creada en 1990 cuando Telefe comenzó a operar la licencia del Canal 11 de Buenos Aires. Desde el año 2016 es propiedad del grupo estadounidense Viacom, subsidiaria en un 80% de National Amusements (quien además es actualmente dueña de Showcase Cinema Argentina). Televisión Federal es también licenciataria de 8 canales ubicados en el interior de Argentina.[/B]</info>
+        </item>
+      <item>
+        <title>El Trece</title>
+        <link>http://us.watcha.live/ch7/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>DeporTV</title>
+        <link>http://us.watcha.live/ch8/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>CN23</title>
+        <link>http://us.watcha.live/ch11/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>360TV</title>
+        <link>http://us.watcha.live/ch12/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>RT NOTICIAS</title>
+        <link>http://us.watcha.live/ch13/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>Encuentro</title>
+        <link>http://us.watcha.live/ch14/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>Paka Paka</title>
+        <link>http://us.watcha.live/ch15/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>Tateti</title>
+        <link>http://us.watcha.live/ch16/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+      <item>
+        <title>CineAR</title>
+        <link>http://us.watcha.live/ch17/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+        </item>
+    </items>
+  </channel>
+
+  <channel>
+    <name>Uruguay</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <info>[B]Lista de canales Uruguayos.[/B]</info>
+    <items>
+      <item>
+        <title>MonteCarlo TV HD</title>
+        <link>$doregex[url] User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/152816/events/4235094/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+        <regex>
+          <name>url</name>
+          <expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+          <page>http://new.livestream.com/accounts/152816/events/4235094/player?width=1920&amp;height=720&amp;autoPlay=true&amp;mute=false</page>
+        </regex>
+        <thumbnail>http://www.montecarlotv.com.uy/sites/all/themes/canalcuatro/assets/img/logo.png</thumbnail>
+        <fanart>http://www.infoycom.org.uy/wp-content/uploads/2016/05/motecarlotv.jpg</fanart>
+        <poster>http://www.infoycom.org.uy/wp-content/uploads/2016/05/motecarlotv.jpg</poster>
+        <info>[B]Monte Carlo TV es un canal de televisión de Uruguay, es la empresa que opera la licencia CXB 4 TV Canal 4. Es el segundo en antigüedad del país luego de Saeta TV Canal 10. Su eslogan durante años fue "El Gran Canal", y su antena estaba originalmente ubicada sobre el Palacio Salvo.[/B]</info>
+      </item>
+
+      <item>
+        <title>TNU</title>
+        <link>$doregex[get-url]</link>
+        <regex>
+          <name>get-url</name>
+          <expres>file: "(.*?)"</expres>
+          <page>$doregex[get-embe]</page>
+          <referer>http://tv.vera.com.uy</referer>
+        </regex>
+        <regex>
+          <name>get-embe</name>
+          <expres>'src', '(.*extras.*?)'</expres>
+          <page>http://tv.vera.com.uy/canal/6042</page>
+          <referer>http://tv.vera.com.uy</referer>
+          <cookieJar></cookieJar>
+        </regex>
+        <thumbnail>http://1.bp.blogspot.com/-d11RjjFPTn8/Uw9WmcsuP1I/AAAAAAAAAbQ/wowWbD-8DFI/s1600/TNU_ISOLOGO.png</thumbnail>
+        <fanart>http://1.bp.blogspot.com/-d11RjjFPTn8/Uw9WmcsuP1I/AAAAAAAAAbQ/wowWbD-8DFI/s1600/TNU_ISOLOGO.png</fanart>
+        <info>[B]Televisión Nacional Uruguay (TNU) es el canal de televisión estatal uruguayo. Inició su transmisión el 19 de junio de 1963. Sus estudios están ubicados sobre Bulevar Artigas 2552, esquina calle Colorado, Montevideo. Es una unidad ejecutora del Ministerio de Educación y Cultura desde el año 2002.[/B]</info>
+      </item>
+
+      <item>
+        <title>Canal 10 HD</title>
+        <link>$doregex[getRTMP] User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://www.canal10.com.uy/vivo</link>
+        <regex>
+          <name>getRTMP</name>
+          <expres>$pyFunction:'$doregex[url]'.replace('//','http://')</expres>
+          <page>$doregex[url]</page>
+          <referer></referer>
+        </regex>
+        <regex>
+          <name>url</name>
+          <expres>'(.*playlist.m3u8.*?)',</expres>
+          <page>http://content.zetatv.com.uy/content/1a92dbdb-5701-46cc-b865-f2b17195afbb/embed/?poster=http://web10.images.production.s3.amazonaws.com/uploads/image/image/398/AHORA_EN_VIVO-950x540.jpg</page>
+          <referer>http://www.canal10.com.uy/vivo</referer>
+        </regex>
+        <thumbnail>http://web10.images.production.s3.amazonaws.com/uploads/image/image/604/canal10-logo.png</thumbnail>
+        <fanart>http://web10.images.production.s3.amazonaws.com/uploads/image/image/398/AHORA_EN_VIVO-950x540.jpg</fanart>
+        <info>[B]Saeta TV Canal 10 es la empresa que explota y opera la licencia CXB10 TV Canal 10 (desde Montevideo, para todo el Uruguay). Fue fundado en 1956 por Raúl Fontaina, constituyéndose como el primer canal de televisión uruguayo, y el cuarto fundado en Latinoamérica.[/B]</info>
+      </item>
+
+      <item>
+        <title>Teledoce HD</title>
+        <link>$doregex[url] User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://www.teledoce.com/envivo/</link>
+        <regex>
+          <name>url</name>
+          <expres>smil","m3u8_url":"(.*?)","secure_m3u8_url</expres>
+          <page>https://livestream.com/accounts/13567583/events/6415731/player?width=960&amp;height=540&amp;enableInfoAndActivity=false&amp;autoPlay=true&amp;mute=false</page>
+        </regex>
+        <cookieJar></cookieJar>
+        <thumbnail>https://www.teledoce.com/wp-content/uploads/2016/03/logo-latele-2016-2.png</thumbnail>
+        <fanart>https://www.teledoce.com/wp-content/uploads/2017/01/placa_redes_envivo-v5_1280x720.jpg</fanart>
+        <info>[B]Sociedad Televisora Larrañaga S.A, conocida actualmente como La Tele, es un canal privado con frecuencia abierta de la televisión uruguaya y fue inaugurado el 2 de mayo de 1962. También se lo conoció por Teledoce Televisora Color (TDTC-12), Canal 12 o Teledoce.[/B]</info>
+      </item>
+
+      <item>
+        <title>VERA+</title>
+        <link>$doregex[get-url]</link>
+        <regex>
+          <name>get-url</name>
+          <expres>file: "(.*?)"</expres>
+          <page>$doregex[get-embe]</page>
+          <referer>http://tv.vera.com.uy</referer>
+        </regex>
+        <regex>
+          <name>get-embe</name>
+          <expres>'src', '(.*extras.*?)'</expres>
+          <page>http://tv.vera.com.uy/canal/6001</page>
+          <referer>http://tv.vera.com.uy</referer>
+          <cookieJar></cookieJar>
+        </regex>
+        <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/240/default.jpg</thumbnail>
+        <fanart>http://assets.cdn.antel.net.uy/dynamic/slider_images/2/559/default.jpg</fanart>
+        <info>[B]vera+ es la señal de Antel, un espacio para conocer nuevas tecnologías, aprender matemáticas, potenciar tu salud junto al deporte en vivo, develar los misterios de la ciencia, disfrutar de nuestro medio ambiente en alta definición y todo al ritmo de los mejores talentos musicales de nuestra cultura.[/B]</info>
+      </item>
+
+    </items>
+  </channel>
+</channels>
