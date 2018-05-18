@@ -150,13 +150,7 @@
 
       <item>
         <title>Teledoce HD</title>
-        <link>$doregex[url] User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://www.teledoce.com/envivo/</link>
-        <regex>
-          <name>url</name>
-          <expres>smil","m3u8_url":"(.*?)","secure_m3u8_url</expres>
-          <page>https://livestream.com/accounts/13567583/events/6415731/player?width=960&amp;height=540&amp;enableInfoAndActivity=false&amp;autoPlay=true&amp;mute=false</page>
-        </regex>
-        <cookieJar></cookieJar>
+        <link>https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8?&dnt=true</link>
         <thumbnail>https://www.teledoce.com/wp-content/uploads/2016/03/logo-latele-2016-2.png</thumbnail>
         <fanart>https://www.teledoce.com/wp-content/uploads/2017/01/placa_redes_envivo-v5_1280x720.jpg</fanart>
         <info>[B]Sociedad Televisora Larrañaga S.A, conocida actualmente como La Tele, es un canal privado con frecuencia abierta de la televisión uruguaya y fue inaugurado el 2 de mayo de 1962. También se lo conoció por Teledoce Televisora Color (TDTC-12), Canal 12 o Teledoce.[/B]</info>
