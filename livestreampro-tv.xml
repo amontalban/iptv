@@ -157,6 +157,27 @@
       </item>
 
       <item>
+        <title>TVCIUDAD</title>
+        <link>$doregex[get-url]</link>
+        <regex>
+          <name>get-url</name>
+          <expres>file: "(.*?)"</expres>
+          <page>$doregex[get-embe]</page>
+          <referer>http://tv.vera.com.uy</referer>
+        </regex>
+        <regex>
+          <name>get-embe</name>
+          <expres>'src', '(.*extras.*?)'</expres>
+          <page>http://tv.vera.com.uy/canal/6046</page>
+          <referer>http://tv.vera.com.uy</referer>
+          <cookieJar></cookieJar>
+        </regex>
+        <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg</thumbnail>
+        <fanart>http://www.tvciudad.uy/wp-content/uploads/Captura-de-pantalla-2017-09-14-a-las-3.44.37-p.m..png</fanart>
+        <info>[B]TVCIUDAD es la televisión digital, abierta y pública de la Intendencia de Montevideo. Su programación incluye cultura, información, entretenimiento y deporte, entre otros. Mantiene un vínculo estrecho con las nuevas tecnologías que complementan y vinculan la transmisión televisiva, fomentando la participación de la audiencia. Con la reciente incorporación de la Televisión Digital Abierta (TDA) en el país, el canal alcanza Montevideo y Área Metropolitana, a través de la televisión abierta.[/B]</info>
+      </item>
+
+      <item>
         <title>VERA+</title>
         <link>$doregex[get-url]</link>
         <regex>
@@ -177,6 +198,74 @@
         <info>[B]vera+ es la señal de Antel, un espacio para conocer nuevas tecnologías, aprender matemáticas, potenciar tu salud junto al deporte en vivo, develar los misterios de la ciencia, disfrutar de nuestro medio ambiente en alta definición y todo al ritmo de los mejores talentos musicales de nuestra cultura.[/B]</info>
       </item>
 
+      <item>
+        <title>POP TV</title>
+        <link>$doregex[get-url]</link>
+        <regex>
+          <name>get-url</name>
+          <expres>file: "(.*?)"</expres>
+          <page>$doregex[get-embe]</page>
+          <referer>http://tv.vera.com.uy</referer>
+        </regex>
+        <regex>
+          <name>get-embe</name>
+          <expres>'src', '(.*extras.*?)'</expres>
+          <page>http://tv.vera.com.uy/canal/14410</page>
+          <referer>http://tv.vera.com.uy</referer>
+          <cookieJar></cookieJar>
+        </regex>
+        <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/14410/240/default.jpg</thumbnail>
+        <fanart>http://qerotv.com/wp-content/uploads/2017/11/pop-tv-uruguay.jpg</fanart>
+        <info>[B]POP TV es una señal de televisión que se emite por Internet a través de poptv.uy. Seguinos para conocer nuestro minuto a minuto. Emitimos en HD los mejores contenidos de producción propia de entretenimiento, viajes, periodísticos, gastronómicos, musicales, deportivos y mucho mas. Además de los mejores contenidos extranjeros. En nuestras redes de Facebook, Twitter y de Instagram podrás acceder a los detalles de toda la programación y las novedades de los comunicadores. POP TV, Vos elegís.[/B]</info>
+      </item>
+    </items>
+  </channel>
+  <channel>
+    <name>Internacionales</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <info>[B]Lista de canales Internacionales.[/B]</info>
+    <items>
+      <item>
+        <title>DW (Español)</title>
+        <link>$doregex[get-url]</link>
+        <regex>
+          <name>get-url</name>
+          <expres>file: "(.*?)"</expres>
+          <page>$doregex[get-embe]</page>
+          <referer>http://tv.vera.com.uy</referer>
+        </regex>
+        <regex>
+          <name>get-embe</name>
+          <expres>'src', '(.*extras.*?)'</expres>
+          <page>http://tv.vera.com.uy/canal/6019</page>
+          <referer>http://tv.vera.com.uy</referer>
+          <cookieJar></cookieJar>
+        </regex>
+        <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6019/240/default.jpg</thumbnail>
+        <fanart>https://www.multitvworld.com/newworld/index/img/dw_tv.jpg</fanart>
+        <info>[B]DW (Español) es la nueva oferta del canal internacional alemán Deutsche Welle, en idioma español y con una programación variada dirigida especialmente a un público latinoamericano. Noticias internacionales a cada hora, debates, nuevas tendencias en internet, programas culturales y de salud forman parte de esta nueva propuesta.[/B]</info>
+      </item>
+      <item>
+        <title>France 24</title>
+        <link>$doregex[get-url]</link>
+        <regex>
+          <name>get-url</name>
+          <expres>file: "(.*?)"</expres>
+          <page>$doregex[get-embe]</page>
+          <referer>http://tv.vera.com.uy</referer>
+        </regex>
+        <regex>
+          <name>get-embe</name>
+          <expres>'src', '(.*extras.*?)'</expres>
+          <page>http://tv.vera.com.uy/canal/9845</page>
+          <referer>http://tv.vera.com.uy</referer>
+          <cookieJar></cookieJar>
+        </regex>
+        <thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9845/240/default.jpg</thumbnail>
+        <fanart>http://scd.france24.com/en/files/html_page/image/play_direct_f24-v2-en_0.png</fanart>
+        <info>[B]France 24 es una cadena de televisión de noticias que emite de manera ininterrumpida para Francia y el mundo. El canal emite actualmente en tres versiones diferentes de idiomas, en francés, inglés y árabe. Además de un telediario cada 30 minutos, la programación de France 24, incluye información económica, deportiva, meteorológica, debates de sociedad, crónicas sobre el arte de vivir a la francesa, grandes reportajes y un informativo cultural.[/B]</info>
+      </item>
     </items>
   </channel>
 </channels>
